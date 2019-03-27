@@ -13,7 +13,7 @@ So, to sum it up:
 
 <h1>Arcade Game Demo</h1>
 <br><br>
-<p>Classic arcade game clone <iframe width="729" height="410" src="https://www.youtube.com/embed/kaifTslArtY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Classic arcade game clone https://www.youtube.com/embed/kaifTslArtY</p>
 <br><br>
 # Introduction
 

@@ -19,13 +19,6 @@ So, to sum it up:
 
 An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript. 
 
-# Run the application
-
-1. Open [Link](https://nglthu.github.io/Classic-Arcade-Game-Clone/)  to run online
-
-<img src="/images/gif/play.gif">
-
-2. If you run on local, download this source code, then open index.html in a browser, and enjoy playing
 
 # Play the application
 
@@ -58,7 +51,6 @@ Render two Images Gem and blood when player coming that position.
 + All enemy objects in an array called 'allEnemies'
 + All enemies have their own random positions and speeds running the screen. 
 
-## Modified index for score input
 <h1>References</h1>
 <ul>
 	<li><a href="https://github.com/bahalps/frontend-nanodegree-arcade-game">bahalps's game</li>
